@@ -1,0 +1,6 @@
+# Default Values
+
+image: nginx:1.14.2
+
+
+replicaCount : 1
