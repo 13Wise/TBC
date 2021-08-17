@@ -6,13 +6,7 @@
 
 როგორ შევასრულე :
 
-
-1) 
-
-
-
-
-2) Kubernetes - დავაყენე შემდეგი ბრძანებებით(Windows):
+ Kubernetes - დავაყენე შემდეგი ბრძანებებით(Windows):
 
   ვაყენებთ - VirtualBox
   
@@ -26,9 +20,10 @@
   ![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/nodes.JPG)
   
   
-  2.1) ვაყენებთ NGINX ს 
+ვაყენებთ NGINX ს 
 
-შევქმენი deployment.yaml ფაილი(სრული კონფიგი შეგიძლიათ ნახოთ GITHUB/TBC/deployments). 
-გავუშვი ფაილი და დავაყენე NGINX...
+შევქმენი deployment.yaml ფაილი Nginx ის დაყენებისთვის, შევქმენი services.yaml ფაილი დეფლოიმენთ ფაილის ქსელის კონფიგისთვის და შევქმენი size.yaml ფაილი სივრცის გამოსაყოფად(Provisioning) (სრული კონფიგი შეგიძლიათ ნახოთ GITHUB/TBC/deployments) 
 
 ![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/deployments.JPG)
+
+
