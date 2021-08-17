@@ -23,7 +23,7 @@
   
 ვაყენებთ NGINX ს 
 
-შევქმენი deployment.yaml ფაილი Nginx ის დაყენებისთვის, შევქმენი services.yaml ფაილი დეფლოიმენთ ფაილის ქსელის კონფიგისთვის და შევქმენი size.yaml ფაილი სივრცის გამოსაყოფად(Provisioning) (სრული კონფიგი შეგიძლიათ ნახოთ GITHUB/TBC/deployments) 
+შევქმენი deployment.yaml ფაილი Nginx ის დაყენებისთვის, შევქმენი services.yaml დეფლოიმენთ ფაილი ქსელის კონფიგისთვის და შევქმენი size.yaml ფაილი სივრცის გამოსაყოფად(Provisioning) (სრული კონფიგი შეგიძლიათ ნახოთ GITHUB/TBC/deployments) 
 
 ![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/deployments.JPG)
 
