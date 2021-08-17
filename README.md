@@ -28,3 +28,7 @@
 ![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/deployments.JPG)
 
 
+
+![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/pvc.JPG)
+
+
