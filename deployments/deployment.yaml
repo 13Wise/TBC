@@ -1,11 +1,11 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: nginx-deployment-helm
+  name: nginx-deployment
   labels:
     app: nginx
 spec:
-  replicas: {{ .Values.replicaCount }}
+  replicas: 1
   selector:
     matchLabels:
       app: nginx
@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: {{ .Values.image }}
+          image: nginx:1.14.2
           ports:
             - containerPort: 80
