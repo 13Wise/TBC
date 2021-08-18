@@ -6,7 +6,7 @@
 
 როგორ შევასრულე :
 
-ვაყენებთ ოფიციალური ფეიჯიდან ლინუქსზე minikube, kubectl... ვუშვებთ ბრძანებას minikube start(რომელიც ქმნის Nodes) 
+ვაყენებთ ოფიციალური ფეიჯიდან ლინუქსზე(ubuntu) minikube, kubectl... ვუშვებთ ბრძანებას minikube start(რომელიც ქმნის Nodes) 
 
 ![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/TBC-1.JPG)
   
