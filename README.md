@@ -5,21 +5,6 @@
 
 
 როგორ შევასრულე :
-
- Kubernetes - დავაყენე შემდეგი ბრძანებებით(Windows):
-
-  ვაყენებთ - VirtualBox
-  
-  ვაყენებთ - kubectl
-  
-  ვანეყებთ - minikube
-  
-  PowerShell - იდან ვუშვებთ ბრძანებას : minikube start --cpus=4 --memory=8gb --disk-size=20gb
-  
-  ორი Node ის დაყენებისთვის ვუშვებთ ბრძანებას : minikube start --nodes 2 -p multinode-test
-  
-  ![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/nodes.JPG)
-  
   
 ვაყენებთ NGINX ს 
 
