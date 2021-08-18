@@ -5,6 +5,8 @@
 
 
 როგორ შევასრულე :
+
+ვაყენებთ K3S-ს ბრძანებით : sudo curl -sfL https://get.k3s.io | sh -
   
 ვაყენებთ NGINX ს 
 
