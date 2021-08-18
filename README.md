@@ -28,4 +28,4 @@ Helm Chart Deployment... დავაყენე Helm შევქმენი 
 დოკერი დაყენებულია, კონტეინერი გაშვებულია, მუშაობს...
 
 
-![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/TBC-4.JPG)
+![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/TBC-4-1.JPG)
