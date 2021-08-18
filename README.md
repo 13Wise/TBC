@@ -21,5 +21,5 @@
 
 Helm Chart Deployment... დავაყენე Helm შევქმენი deployment ფაილები values.yaml, Chart.yaml და deployment-helm.yaml(სრული კონფიგურაცია შეგიძლიათ ნახოთ GITHUB/TBC/deployments/Chart) ისევ ვაყენებთ nginx ს....
 
-![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/helmchart.JPG)
+![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/TBC-3.JPG)
 
