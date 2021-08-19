@@ -29,3 +29,29 @@ Helm Chart Deployment... დავაყენე Helm შევქმენი 
 
 
 ![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/TBC-4.JPG)
+
+
+
+helm ის დახმარებით ვაყენებთ prometheus-ს და grafana-ს...
+
+![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/TBC-10.JPG)
+
+
+შემდეგ პრომეთეუსს ვუკეთებთ პორტ ფორვარდინგს და შევდივართ localhost:9090 ის მეშვეობით ბრაუზერიდან...
+
+![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/TBC-6.JPG)
+
+
+ამის შემდეგ ტერმინალში ვაგენერირებთ გრაფანას ადმინის Random პაროლს ვაკეთებთ ისევ პორტ ფორვარდინგს და ბრაუზერიდან შევდივართ localhost:3000 ის მეშვეობით...
+
+![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/TBC-7.JPG)
+
+შეგვყავს User: admin და პაროლი რომელიც დავაგენერირეთ ტერმინალში...
+
+![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/TBC-8.JPG)
+
+გრაფანას და პრომეთეუსის დასაკავშირებლად Data Source-ში ვუთითებთ შიდა DNS, რომელიც მოგვცა სერვისმა რომელსაც უკავშირდება პრომეთეუსი...
+
+ამის შემდეგ ვამატებთ Dashboard-ს გრაფანას პანელში...
+
+![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/TBC-9.JPG)
