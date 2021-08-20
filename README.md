@@ -63,7 +63,7 @@ helm ის დახმარებით ვაყენებთ prometheus-�
 ![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/TBC-11.JPG)
 
 
-დავაყენე Emailwebservice მიკროსერვისი, დავაკონფიგურირე Istio, დავაყენე Kiali ისტიოსთვის, გავაკეთე პორტ ფორვარნდგი და შევედი Kiali-ს ვებგვერდზე ლოკალჰოსტიდან...
+დავაყენე Emailwebservice მიკროსერვისი, დავაკონფიგურირე Istio, დავაყენე Kiali ისტიოსთვის, გავაკეთე პორტ ფორვარდინგი და შევედი Kiali-ს ვებგვერდზე ლოკალჰოსტიდან...
 
 
 ![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/TBC-12.JPG)
