@@ -70,3 +70,22 @@ helm ის დახმარებით ვაყენებთ prometheus-�
 
 
 ![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/TBC-13.JPG)
+
+
+
+
+დავაკონფიგურირე ISTIO Ingress gateway config ფაილი... დავამატე VirtualService, Gateway, ServiceEntry...
+
+![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/TBC-14.JPG)
+
+
+![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/TBC-15.JPG)
+
+![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/TBC-16.JPG)
+
+![alt text](https://s3.eu-west-1.amazonaws.com/by.bucket-exadel/TBC-17.JPG)
+
+
+
+ამის შემდეგ Helm-ის დახმარებით დავაყენე HaProxy
+
